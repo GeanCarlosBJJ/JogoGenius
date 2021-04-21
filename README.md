@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/GeanCarlosBJJ/JogoGenius.git">
+  <a href="https://github.com/GeancarlosDEV/JogoGenius">
     <img 
          src='/img/interface.png'
          alt="Jogo de memória estilo Genius" 
